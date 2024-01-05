@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/cosmjs is built on the following main stack:
+
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Python](https://www.python.org) – Languages
@@ -26,11 +27,13 @@ swadhin1515/cosmjs is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/cosmjs is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -55,14 +58,15 @@ swadhin1515/cosmjs is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/cosmjs](https://github.com/swadhin1515/cosmjs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|67<br/>Tools used|11/10/23 <br/>Report generated|
+|68<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -310,9 +314,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (40)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (41)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (40)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (41)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -331,6 +335,7 @@ Full tech stack [here](/techstack.md)
 |[base64-js](https://www.npmjs.com/base64-js)|v1.5.1|04/27/21|willclarktech |MIT|N/A|
 |[bn.js](https://www.npmjs.com/bn.js)|v4.12.0|11/19/21|Simon Warta |MIT|N/A|
 |[buffer](https://www.npmjs.com/buffer)|v5.7.1|05/19/21|willclarktech |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|01/10/22|Simon Warta |MIT|N/A|
 |[diff](https://www.npmjs.com/diff)|v4.0.2|03/20/20|Simon Warta |BSD-3-Clause|N/A|
 |[elliptic](https://www.npmjs.com/elliptic)|v6.5.4|11/15/22|Simon Warta |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|03/01/23|Simon Warta |MIT|N/A|
@@ -360,4 +365,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
